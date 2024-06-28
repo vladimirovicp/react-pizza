@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import './App.css';
 import Button from './compotents/Button/Button';
 
 function App() {
